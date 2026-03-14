@@ -1,17 +1,49 @@
-# mini_katalog
+# 🛍️ Mini Katalog Uygulaması
 
-A new Flutter project.
+Flutter ile geliştirilmiş minimalist ve modern bir ürün katalog uygulaması.
 
-## Getting Started
+## 📱 Özellikler
 
-This project is a starting point for a Flutter application.
+- Ürün listeleme (GridView)
+- Kategoriye göre filtreleme
+- Ürün arama
+- Ürün detay sayfası
+- Sepete ekleme ve sepet yönetimi
+- Sayfa geçişleri (Navigator + Named Routes)
+- Basit state güncelleme
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Kullanılan Teknolojiler
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter SDK (3.x)
+- Dart
+- Material Design 3
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Çalıştırma Adımları
+
+1. Flutter SDK kurulu olduğundan emin ol
+2. Repoyu klonla:
+```
+   git clone https://github.com/benmevic/mini-katalog-react.git
+```
+3. Klasöre gir:
+```
+   cd mini-katalog-react
+```
+4. Bağımlılıkları yükle:
+```
+   flutter pub get
+```
+5. Uygulamayı çalıştır:
+```
+   flutter run
+```
+
+## 📸 Ekran Görüntüleri
+
+![Ana Sayfa](screenshots/anasayfa.png)
+![Detay](screenshots/ürün.png)
+![Sepet](screenshots/sepet.png)
+
+## 👩‍💻 Geliştirici
+
+Meriç Aytaş
