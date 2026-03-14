@@ -45,4 +45,4 @@ Günlük su içme alışkanlığını takip etmeni sağlayan Flutter ile gelişt
 
 ## 👩‍💻 Geliştirici
 
-Meray
+Meriç Aytaş
